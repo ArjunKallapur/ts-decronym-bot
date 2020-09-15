@@ -15,4 +15,26 @@ Now, to help newer fans out, we'd have to monitor every new post coming in and t
 
 ## Bot Implementation Details and Code
 
-Coming soon...
+Now up!
+
+```text
+
+Project Structure
+ts-decronym-bot
+├── .gitignore          # tells git what files to ignore
+├── README.md           # this file
+├── bot.py              # the code for the bot
+├── config.py           # contains global settings
+├── discography.json    # contains discography of the artist
+├── requirements.txt    # project dependencies
+├── songs.json          # bot-generated file containing acronyms
+└── utils.py            # contains utility scripts
+
+```
+
+Feel free to take a look and open a pull request if!
+
+## TODOS
+
+* Add unit tests for the `DecronymBot` class
+* Make certain config items command line options

@@ -1,14 +1,17 @@
 # TODO: write unit tests for this
 '''
-This file contains utility scripts used to generate `songs.json`
+This file contains utility scripts used to generate `songs.json`, and other
+templates used by the bot
 '''
 import json
 
 def convert_discography_to_songs():
     '''
+    Writes discography into short forms - with side effects. 
+
     converts `discography.json` into `songs.json` which follows the following 
-    convention:
-    SHORTFORM : [long_form, album_name]
+    convention - \n
+    `SHORTFORM : {long_form, album_name}`
     '''
     # TODO: make the file names command line arguments, hard coded for now
     #
@@ -46,7 +49,7 @@ def convert_discography_to_songs():
                     print('Duplicate key: {0}, value: {1}'.format(abbreviation, track))
                 # if the abbreviation doesn't exist, add it to the dict
                 else:
-                    abbreviations[abbreviation] = (track['name'], album['name'])
+                    abbreviations[abbreviation] = {'long_form' : track['name'], 'album_name' : album['name']}
     #
     #
     #

@@ -1,346 +1,346 @@
 {
-    "IFTYE": [
-        "I Forgot That You Existed",
-        "Lover"
-    ],
-    "CS": [
-        "Cruel Summer",
-        "Lover"
-    ],
-    "TM": [
-        "The Man",
-        "Lover"
-    ],
-    "TA": [
-        "The Archer",
-        "Lover"
-    ],
-    "ITHK": [
-        "I Think He Knows",
-        "Lover"
-    ],
-    "MAATHP": [
-        "Miss Americana And The Heartbreak Prince",
-        "Lover"
-    ],
-    "PR": [
-        "Paper Rings",
-        "Lover"
-    ],
-    "DBATC": [
-        "Death By A Thousand Cuts",
-        "Lover"
-    ],
-    "LB": [
-        "London Boy",
-        "Lover"
-    ],
-    "SYGB(DC": [
-        "Soon You\u2019ll Get Better (feat. Dixie Chicks)",
-        "Lover"
-    ],
-    "FG": [
-        "False God",
-        "Lover"
-    ],
-    "YNTCD": [
-        "You Need To Calm Down",
-        "Lover"
-    ],
-    "M(BUoPATD": [
-        "ME! (feat. Brendon Urie of Panic! At The Disco)",
-        "Lover"
-    ],
-    "INTHAF": [
-        "It\u2019s Nice To Have A Friend",
-        "Lover"
-    ],
-    "LS": [
-        "Love Story",
-        "Fearless"
-    ],
-    "HS": [
-        "Hey Stephen",
-        "Fearless"
-    ],
-    "WH": [
-        "White Horse",
-        "Fearless"
-    ],
-    "YBWM": [
-        "You Belong With Me",
-        "Fearless"
-    ],
-    "TMW": [
-        "Tell Me Why",
-        "Fearless"
-    ],
-    "YNS": [
-        "You're Not Sorry",
-        "Fearless"
-    ],
-    "TWILY": [
-        "The Way I Loved You",
-        "Fearless"
-    ],
-    "FAA": [
-        "Forever And Always",
-        "Fearless"
-    ],
-    "TBD": [
-        "The Best Day",
-        "Fearless"
-    ],
-    "SOG": [
-        "State Of Grace",
-        "Red"
-    ],
-    "IKYWT": [
-        "I Knew You Were Trouble.",
-        "Red"
-    ],
-    "ATW": [
-        "All Too Well",
-        "Red"
-    ],
-    "IAD": [
-        "I Almost Do",
-        "Red"
-    ],
-    "WANEGBT": [
-        "We Are Never Ever Getting Back Together",
-        "Red"
-    ],
-    "SSS": [
-        "Stay Stay Stay",
-        "Red"
-    ],
-    "TLT": [
-        "The Last Time",
-        "Red"
-    ],
-    "HG": [
-        "Holy Ground",
-        "Red"
-    ],
-    "SBT": [
-        "Sad Beautiful Tragic",
-        "Red"
-    ],
-    "TLO": [
-        "The Lucky One",
-        "Red"
-    ],
-    "EHC": [
-        "Everything Has Changed",
-        "Red"
-    ],
-    "BA": [
-        "Begin Again",
-        "Red"
-    ],
-    ".FI": [
-        "...Ready For It?",
-        "reputation"
-    ],
-    "EG": [
-        "End Game",
-        "reputation"
-    ],
-    "IDSB": [
-        "I Did Something Bad",
-        "reputation"
-    ],
-    "DBM": [
-        "Don\u2019t Blame Me",
-        "reputation"
-    ],
-    "LWYMMD": [
-        "Look What You Made Me Do",
-        "reputation"
-    ],
-    "SIG": [
-        "So It Goes...",
-        "reputation"
-    ],
-    "GC": [
-        "Getaway Car",
-        "reputation"
-    ],
-    "KOMH": [
-        "King Of My Heart",
-        "reputation"
-    ],
-    "DWOHT": [
-        "Dancing With Our Hands Tied",
-        "reputation"
-    ],
-    "TIWWCHNT": [
-        "This Is Why We Can\u2019t Have Nice Things",
-        "reputation"
-    ],
-    "CIWYW": [
-        "Call It What You Want",
-        "reputation"
-    ],
-    "NYD": [
-        "New Year\u2019s Day",
-        "reputation"
-    ],
-    "SF": [
-        "Sparks Fly",
-        "Speak Now"
-    ],
-    "BTD": [
-        "Back To December",
-        "Speak Now"
-    ],
-    "SN": [
-        "Speak Now",
-        "Speak Now"
-    ],
-    "DJ": [
-        "Dear John",
-        "Speak Now"
-    ],
-    "TSOU": [
-        "The Story Of Us",
-        "Speak Now"
-    ],
-    "NGU": [
-        "Never Grow Up",
-        "Speak Now"
-    ],
-    "BTR": [
-        "Better Than Revenge",
-        "Speak Now"
-    ],
-    "LK": [
-        "Last Kiss",
-        "Speak Now"
-    ],
-    "LL": [
-        "Long Live",
-        "Speak Now"
-    ],
-    "PTB": [
-        "Picture To Burn",
-        "Taylor Swift"
-    ],
-    "TOMG-RSR": [
-        "Teardrops On My Guitar - Radio Single Remix",
-        "Taylor Swift"
-    ],
-    "APitW": [
-        "A Place in this World",
-        "Taylor Swift"
-    ],
-    "CAY": [
-        "Cold As You",
-        "Taylor Swift"
-    ],
-    "TO": [
-        "The Outside",
-        "Taylor Swift"
-    ],
-    "TTwaS": [
-        "Tied Together with a Smile",
-        "Taylor Swift"
-    ],
-    "SB": [
-        "Stay Beautiful",
-        "Taylor Swift"
-    ],
-    "SSN": [
-        "Should've Said No",
-        "Taylor Swift"
-    ],
-    "MS(MMM": [
-        "Mary's Song (Oh My My My)",
-        "Taylor Swift"
-    ],
-    "OS": [
-        "Our Song",
-        "Taylor Swift"
-    ],
-    "IOMWIWY": [
-        "I'm Only Me When I'm With You",
-        "Taylor Swift"
-    ],
-    "APGH": [
-        "A Perfectly Good Heart",
-        "Taylor Swift"
-    ],
-    "ToMG-PV": [
-        "Teardrops on My Guitar - Pop Version",
-        "Taylor Swift"
-    ],
-    "WTNY": [
-        "Welcome To New York",
-        "1989"
-    ],
-    "BS": [
-        "Blank Space",
-        "1989"
-    ],
-    "OOTW": [
-        "Out Of The Woods",
-        "1989"
-    ],
-    "AYHTDWS": [
-        "All You Had To Do Was Stay",
-        "1989"
-    ],
-    "SIO": [
-        "Shake It Off",
-        "1989"
-    ],
-    "IWYW": [
-        "I Wish You Would",
-        "1989"
-    ],
-    "BB": [
-        "Bad Blood",
-        "1989"
-    ],
-    "WD": [
-        "Wildest Dreams",
-        "1989"
-    ],
-    "HYGTG": [
-        "How You Get The Girl",
-        "1989"
-    ],
-    "TL": [
-        "This Love",
-        "1989"
-    ],
-    "IKP": [
-        "I Know Places",
-        "1989"
-    ],
-    "TMIK": [
-        "The Moment I Knew",
-        "Red (Deluxe Edition)"
-    ],
-    "CBH": [
-        "Come Back...Be Here",
-        "Red (Deluxe Edition)"
-    ],
-    "GAH": [
-        "Girl At Home",
-        "Red (Deluxe Edition)"
-    ],
-    "T-ODR": [
-        "Treacherous - Original Demo Recording",
-        "Red (Deluxe Edition)"
-    ],
-    "R-ODR": [
-        "Red - Original Demo Recording",
-        "Red (Deluxe Edition)"
-    ],
-    "SOG-AV": [
-        "State Of Grace - Acoustic Version",
-        "Red (Deluxe Edition)"
-    ]
+    "IFTYE": {
+        "long_form": "I Forgot That You Existed",
+        "album_name": "Lover"
+    },
+    "CS": {
+        "long_form": "Cruel Summer",
+        "album_name": "Lover"
+    },
+    "TM": {
+        "long_form": "The Man",
+        "album_name": "Lover"
+    },
+    "TA": {
+        "long_form": "The Archer",
+        "album_name": "Lover"
+    },
+    "ITHK": {
+        "long_form": "I Think He Knows",
+        "album_name": "Lover"
+    },
+    "MAATHP": {
+        "long_form": "Miss Americana And The Heartbreak Prince",
+        "album_name": "Lover"
+    },
+    "PR": {
+        "long_form": "Paper Rings",
+        "album_name": "Lover"
+    },
+    "DBATC": {
+        "long_form": "Death By A Thousand Cuts",
+        "album_name": "Lover"
+    },
+    "LB": {
+        "long_form": "London Boy",
+        "album_name": "Lover"
+    },
+    "SYGB(DC": {
+        "long_form": "Soon You\u2019ll Get Better (feat. Dixie Chicks)",
+        "album_name": "Lover"
+    },
+    "FG": {
+        "long_form": "False God",
+        "album_name": "Lover"
+    },
+    "YNTCD": {
+        "long_form": "You Need To Calm Down",
+        "album_name": "Lover"
+    },
+    "M(BUoPATD": {
+        "long_form": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+        "album_name": "Lover"
+    },
+    "INTHAF": {
+        "long_form": "It\u2019s Nice To Have A Friend",
+        "album_name": "Lover"
+    },
+    "LS": {
+        "long_form": "Love Story",
+        "album_name": "Fearless"
+    },
+    "HS": {
+        "long_form": "Hey Stephen",
+        "album_name": "Fearless"
+    },
+    "WH": {
+        "long_form": "White Horse",
+        "album_name": "Fearless"
+    },
+    "YBWM": {
+        "long_form": "You Belong With Me",
+        "album_name": "Fearless"
+    },
+    "TMW": {
+        "long_form": "Tell Me Why",
+        "album_name": "Fearless"
+    },
+    "YNS": {
+        "long_form": "You're Not Sorry",
+        "album_name": "Fearless"
+    },
+    "TWILY": {
+        "long_form": "The Way I Loved You",
+        "album_name": "Fearless"
+    },
+    "FAA": {
+        "long_form": "Forever And Always",
+        "album_name": "Fearless"
+    },
+    "TBD": {
+        "long_form": "The Best Day",
+        "album_name": "Fearless"
+    },
+    "SOG": {
+        "long_form": "State Of Grace",
+        "album_name": "Red"
+    },
+    "IKYWT": {
+        "long_form": "I Knew You Were Trouble.",
+        "album_name": "Red"
+    },
+    "ATW": {
+        "long_form": "All Too Well",
+        "album_name": "Red"
+    },
+    "IAD": {
+        "long_form": "I Almost Do",
+        "album_name": "Red"
+    },
+    "WANEGBT": {
+        "long_form": "We Are Never Ever Getting Back Together",
+        "album_name": "Red"
+    },
+    "SSS": {
+        "long_form": "Stay Stay Stay",
+        "album_name": "Red"
+    },
+    "TLT": {
+        "long_form": "The Last Time",
+        "album_name": "Red"
+    },
+    "HG": {
+        "long_form": "Holy Ground",
+        "album_name": "Red"
+    },
+    "SBT": {
+        "long_form": "Sad Beautiful Tragic",
+        "album_name": "Red"
+    },
+    "TLO": {
+        "long_form": "The Lucky One",
+        "album_name": "Red"
+    },
+    "EHC": {
+        "long_form": "Everything Has Changed",
+        "album_name": "Red"
+    },
+    "BA": {
+        "long_form": "Begin Again",
+        "album_name": "Red"
+    },
+    ".FI": {
+        "long_form": "...Ready For It?",
+        "album_name": "reputation"
+    },
+    "EG": {
+        "long_form": "End Game",
+        "album_name": "reputation"
+    },
+    "IDSB": {
+        "long_form": "I Did Something Bad",
+        "album_name": "reputation"
+    },
+    "DBM": {
+        "long_form": "Don\u2019t Blame Me",
+        "album_name": "reputation"
+    },
+    "LWYMMD": {
+        "long_form": "Look What You Made Me Do",
+        "album_name": "reputation"
+    },
+    "SIG": {
+        "long_form": "So It Goes...",
+        "album_name": "reputation"
+    },
+    "GC": {
+        "long_form": "Getaway Car",
+        "album_name": "reputation"
+    },
+    "KOMH": {
+        "long_form": "King Of My Heart",
+        "album_name": "reputation"
+    },
+    "DWOHT": {
+        "long_form": "Dancing With Our Hands Tied",
+        "album_name": "reputation"
+    },
+    "TIWWCHNT": {
+        "long_form": "This Is Why We Can\u2019t Have Nice Things",
+        "album_name": "reputation"
+    },
+    "CIWYW": {
+        "long_form": "Call It What You Want",
+        "album_name": "reputation"
+    },
+    "NYD": {
+        "long_form": "New Year\u2019s Day",
+        "album_name": "reputation"
+    },
+    "SF": {
+        "long_form": "Sparks Fly",
+        "album_name": "Speak Now"
+    },
+    "BTD": {
+        "long_form": "Back To December",
+        "album_name": "Speak Now"
+    },
+    "SN": {
+        "long_form": "Speak Now",
+        "album_name": "Speak Now"
+    },
+    "DJ": {
+        "long_form": "Dear John",
+        "album_name": "Speak Now"
+    },
+    "TSOU": {
+        "long_form": "The Story Of Us",
+        "album_name": "Speak Now"
+    },
+    "NGU": {
+        "long_form": "Never Grow Up",
+        "album_name": "Speak Now"
+    },
+    "BTR": {
+        "long_form": "Better Than Revenge",
+        "album_name": "Speak Now"
+    },
+    "LK": {
+        "long_form": "Last Kiss",
+        "album_name": "Speak Now"
+    },
+    "LL": {
+        "long_form": "Long Live",
+        "album_name": "Speak Now"
+    },
+    "PTB": {
+        "long_form": "Picture To Burn",
+        "album_name": "Taylor Swift"
+    },
+    "TOMG-RSR": {
+        "long_form": "Teardrops On My Guitar - Radio Single Remix",
+        "album_name": "Taylor Swift"
+    },
+    "APitW": {
+        "long_form": "A Place in this World",
+        "album_name": "Taylor Swift"
+    },
+    "CAY": {
+        "long_form": "Cold As You",
+        "album_name": "Taylor Swift"
+    },
+    "TO": {
+        "long_form": "The Outside",
+        "album_name": "Taylor Swift"
+    },
+    "TTwaS": {
+        "long_form": "Tied Together with a Smile",
+        "album_name": "Taylor Swift"
+    },
+    "SB": {
+        "long_form": "Stay Beautiful",
+        "album_name": "Taylor Swift"
+    },
+    "SSN": {
+        "long_form": "Should've Said No",
+        "album_name": "Taylor Swift"
+    },
+    "MS(MMM": {
+        "long_form": "Mary's Song (Oh My My My)",
+        "album_name": "Taylor Swift"
+    },
+    "OS": {
+        "long_form": "Our Song",
+        "album_name": "Taylor Swift"
+    },
+    "IOMWIWY": {
+        "long_form": "I'm Only Me When I'm With You",
+        "album_name": "Taylor Swift"
+    },
+    "APGH": {
+        "long_form": "A Perfectly Good Heart",
+        "album_name": "Taylor Swift"
+    },
+    "ToMG-PV": {
+        "long_form": "Teardrops on My Guitar - Pop Version",
+        "album_name": "Taylor Swift"
+    },
+    "WTNY": {
+        "long_form": "Welcome To New York",
+        "album_name": "1989"
+    },
+    "BS": {
+        "long_form": "Blank Space",
+        "album_name": "1989"
+    },
+    "OOTW": {
+        "long_form": "Out Of The Woods",
+        "album_name": "1989"
+    },
+    "AYHTDWS": {
+        "long_form": "All You Had To Do Was Stay",
+        "album_name": "1989"
+    },
+    "SIO": {
+        "long_form": "Shake It Off",
+        "album_name": "1989"
+    },
+    "IWYW": {
+        "long_form": "I Wish You Would",
+        "album_name": "1989"
+    },
+    "BB": {
+        "long_form": "Bad Blood",
+        "album_name": "1989"
+    },
+    "WD": {
+        "long_form": "Wildest Dreams",
+        "album_name": "1989"
+    },
+    "HYGTG": {
+        "long_form": "How You Get The Girl",
+        "album_name": "1989"
+    },
+    "TL": {
+        "long_form": "This Love",
+        "album_name": "1989"
+    },
+    "IKP": {
+        "long_form": "I Know Places",
+        "album_name": "1989"
+    },
+    "TMIK": {
+        "long_form": "The Moment I Knew",
+        "album_name": "Red (Deluxe Edition)"
+    },
+    "CBH": {
+        "long_form": "Come Back...Be Here",
+        "album_name": "Red (Deluxe Edition)"
+    },
+    "GAH": {
+        "long_form": "Girl At Home",
+        "album_name": "Red (Deluxe Edition)"
+    },
+    "T-ODR": {
+        "long_form": "Treacherous - Original Demo Recording",
+        "album_name": "Red (Deluxe Edition)"
+    },
+    "R-ODR": {
+        "long_form": "Red - Original Demo Recording",
+        "album_name": "Red (Deluxe Edition)"
+    },
+    "SOG-AV": {
+        "long_form": "State Of Grace - Acoustic Version",
+        "album_name": "Red (Deluxe Edition)"
+    }
 }
